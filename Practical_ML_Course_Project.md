@@ -1,6 +1,6 @@
 # Predict activity quality from activity monitors
-Guru Teja 
-21 Oct 2020 
+Onur Akpolat  
+24. January 2015  
 
 ##Synopsis
 
